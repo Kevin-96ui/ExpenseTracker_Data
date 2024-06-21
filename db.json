@@ -1,0 +1,17 @@
+{
+    "expenses": [],
+    "users": [
+      {
+        "username": "Kevin",
+        "password": "Kevin",
+        "id": "a57b",
+        "email": "kevin@gmail.com"
+      },
+      {
+        "username": "Pugal",
+        "email": "pugalp702@gmail.com",
+        "password": "Pugal",
+        "id": "6794"
+      }
+    ]
+  }
